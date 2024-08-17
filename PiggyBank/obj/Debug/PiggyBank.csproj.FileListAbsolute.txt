@@ -1,0 +1,20 @@
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.Form1.resources
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\OSMAN ÖMER\source\repos\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.Form1.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\OSMAN ÖMER\Desktop\OSMAN\BİLGE ADAM YAZILIM_OSMAN\OSMAN GÜNER__PIGGY BANK\20190405PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb
